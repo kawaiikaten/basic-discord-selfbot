@@ -1,0 +1,3 @@
+install the right client by doing
+pip install discord.py-self 
+if you dont it wont work
