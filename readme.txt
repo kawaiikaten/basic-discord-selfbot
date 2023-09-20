@@ -1,6 +1,8 @@
 yo dont skid ts or next time i update the sb code its gonna be obfuscated, n yall want a safe opensourced sb rii?
 ** DO pip install discord.py-self OR IT WONT WORK **
 
+on the first command "test" i made a mistake, change the "Ctf" to ctx
+
 Effective Date: [9/20/23]
 
 These Terms of Service ("ToS") govern your use of the services provided by [katen (termedkaten on discord)] ("selfbot"), operated and updated by [katen]. By accessing or using the Service, you agree to comply with and be bound by these ToS. If you do not agree to these terms, please do not use the Service.
